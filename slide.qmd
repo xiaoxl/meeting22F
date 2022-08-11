@@ -1,0 +1,60 @@
+---
+title: "2022 Fall Faculty Meeting"
+subtitle: "Department of Mathematics and Statistics"
+date: "August 11, 2022"
+author: "Xinli Xiao"
+format: 
+    revealjs:
+        theme: solarized
+---
+
+## Math Program Updates
+
+- Students Math competitions:
+    - Math Jeopardy competition: one of our two teams (Takumi Mori and Genya Ohama) got the third place out of eight.
+    - Integration bee: Scott Nevenhoven and Micah Vess got the second and the third place.
+
+---
+
+- Pre-post tests: 
+    - We will continue to do pre-post tests for Cal 1/2/3 and Diff. Eqns. 
+    - The problems will be the same as last year's version. 
+    - When submitting the data, please directly delete those who didn't participate at least one of the tests. 
+- Math club:
+    - Math is active again last year.
+
+
+---
+
+## Applied Statistics Program Updates
+
+- Applied Stats Committee designed a series of New STAT courses
+    - Fall 2021:
+        - STAT 3203 - Actuarial Probability I
+    - Spring 2022:
+        - STAT 3183 Statistical Process Control
+        - STAT 3213 Actuarial Probability II
+        - STAT 4393 Statistical Learning
+
+---
+
+- Applied Stats Committee designed a series of New STAT courses (cont.)
+    - Fall 2022:
+        - STAT 4163 Mathematical Statistics
+        - STAT 4113 Categorical Data Analysis
+        - STAT 4383 Machine Learning
+        - STAT 2304 Programming Language for Data Science
+        - STAT 4283 Financial Mathematics I
+
+---
+
+- The STAT committee continues to contact High School math or AP stats teachers. Kristi and Weijia continues giving talks to high school students.
+- The Applied Statistics committee contact the industry partners. Members in the Applied Statistics Advisory board: J B Hunt, Dillard’s, ArcBest, Acxiom
+- ATU Data Science Workshop was offered during the Fall 2021 and Spring 2022, students from several STEM or Business majors participate or present in the workshops. Some students start taking more STAT courses after attending the workshop.
+
+---
+
+- Work with DART EPSCoR program to continue developing Applied Statistics Data Science track
+- A large proportion of STAT students participating either summer research in academia or having summer internship in the industry in summer 2022
+
+# Thank you!
